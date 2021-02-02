@@ -14,7 +14,7 @@
       ========================================================================== */
    body {
      font-family: Inconsolata, monospace;
-     color: #000026;
+     color: #00274C;
      font-size: 14px;
      line-height: 20px;
      font-weight: 400;
@@ -23,7 +23,7 @@
    h1 {
      margin-top: 20px;
      margin-bottom: 10px;
-     color: #000026;
+     color: #00274C;
      font-size: 48px;
      line-height: 54px;
      font-weight: 400;
@@ -32,7 +32,7 @@
    h2 {
      margin-top: 20px;
      margin-bottom: 10px;
-     color: #000026;
+     color: #00274C;
      font-size: 42px;
      line-height: 48px;
      font-weight: 400;
@@ -41,7 +41,7 @@
    h3 {
      margin-top: 20px;
      margin-bottom: 10px;
-     color: #000026;
+     color: #00274C;
      font-size: 36px;
      line-height: 42px;
      font-weight: 400;
@@ -50,7 +50,7 @@
    h4 {
      margin-top: 10px;
      margin-bottom: 10px;
-     color: #000026;
+     color: #00274C;
      font-size: 30px;
      line-height: 36px;
      font-weight: 400;
@@ -59,7 +59,7 @@
    h5 {
      margin-top: 10px;
      margin-bottom: 10px;
-     color: #000026;
+     color: #00274C;
      font-size: 24px;
      line-height: 30px;
      font-weight: 400;
@@ -68,7 +68,7 @@
    h6 {
      margin-top: 10px;
      margin-bottom: 10px;
-     color: #000026;
+     color: #00274C;
      font-size: 18px;
      line-height: 26px;
      font-weight: 400;
@@ -194,7 +194,7 @@
    }
 
    .color-block.paragraphs {
-     background-color: #000026;
+     background-color: #00274C;
    }
 
    .color-block.white {
@@ -203,7 +203,7 @@
    }
 
    .color-block.dark-slate-grey {
-     background-color: #000026;
+     background-color: #00274C;
    }
 
    .color-block.firebrick {
@@ -288,7 +288,7 @@
      padding: 32px 104px;
      border-style: solid;
      border-width: 1px;
-     border-color: rgba(0, 0, 38, 0.1);
+     border-color: rgba(0, 39, 76, 0.1);
      background-color: #fff;
      box-shadow: none;
    }
@@ -299,7 +299,7 @@
      -webkit-flex: 1;
      -ms-flex: 1;
      flex: 1;
-     background-color: #000026;
+     background-color: #00274C;
    }
 
    .grayscale-block._10 {
@@ -546,7 +546,7 @@
      align-items: center;
      border-style: solid;
      border-width: 1px;
-     border-color: rgba(0, 0, 38, 0.1);
+     border-color: rgba(0, 39, 76, 0.1);
      background-color: #fff;
      box-shadow: none;
    }
@@ -664,7 +664,7 @@
    }
 
    .nav-link.dark {
-     color: #000026;
+     color: #00274C;
    }
 
    .nav-link.dark.footer-link {
@@ -715,7 +715,7 @@
    }
 
    .line-1.dark {
-     background-color: #000026;
+     background-color: #00274C;
    }
 
    .burger-menu {
@@ -774,7 +774,7 @@
      width: 40px;
      height: 1px;
      margin-left: 8px;
-     background-color: #000026;
+     background-color: #00274C;
      -webkit-transform-origin: 0% 50%;
      -ms-transform-origin: 0% 50%;
      transform-origin: 0% 50%;
@@ -821,7 +821,7 @@
    }
 
    .line-2.dark {
-     background-color: #000026;
+     background-color: #00274C;
    }
 
    .line-3 {
@@ -835,7 +835,7 @@
    }
 
    .line-3.dark {
-     background-color: #000026;
+     background-color: #00274C;
    }
 
    .hero-img-wrapper {
@@ -864,7 +864,7 @@
 
    .underline-text {
      display: block;
-     color: #000026;
+     color: #00274C;
      font-weight: 400;
    }
 
@@ -914,7 +914,7 @@
    .scroll-text {
      display: inline-block;
      margin-right: 8px;
-     color: #000026;
+     color: #00274C;
    }
 
    .scroll-down-icon {
@@ -1059,7 +1059,7 @@
    }
 
    .project-title {
-     color: #000026;
+     color: #00274C;
      font-size: 48px;
      line-height: 54px;
      text-decoration: none;
@@ -1233,7 +1233,7 @@
      margin-top: 0px;
      margin-bottom: 0px;
      font-family: Inconsolata, monospace;
-     color: #000026;
+     color: #00274C;
      font-size: 18px;
      line-height: 24px;
      text-align: center;
@@ -1340,7 +1340,7 @@
      padding-left: 0px;
      border-style: none none solid;
      border-bottom-width: 1px;
-     border-bottom-color: #000026;
+     border-bottom-color: #00274C;
      border-radius: 0px;
      background-color: transparent;
      -webkit-transition: border-color 300ms ease;
@@ -1352,19 +1352,19 @@
    }
 
    .text-field::-webkit-input-placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .text-field:-ms-input-placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .text-field::-ms-input-placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .text-field::placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .text-field.min-height {
@@ -1394,7 +1394,7 @@
      padding-left: 0px;
      border-style: none none solid;
      border-bottom-width: 1px;
-     border-bottom-color: #000026;
+     border-bottom-color: #00274C;
      border-radius: 0px;
      background-color: transparent;
      -webkit-transition: border-color 300ms ease;
@@ -1406,19 +1406,19 @@
    }
 
    .select-field::-webkit-input-placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .select-field:-ms-input-placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .select-field::-ms-input-placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .select-field::placeholder {
-     color: rgba(0, 0, 38, 0.5);
+     color: rgba(0, 39, 76, 0.5);
    }
 
    .footer {
@@ -1612,14 +1612,14 @@
    }
 
    .project-info-title {
-     color: #000026;
+     color: #00274C;
      font-size: 18px;
      line-height: 24px;
      text-align: left;
    }
 
    .project-info-value {
-     color: #000026;
+     color: #00274C;
      font-size: 18px;
      line-height: 24px;
      font-weight: 700;
@@ -2001,7 +2001,7 @@
      -ms-flex: 1;
      flex: 1;
      font-family: Inconsolata, monospace;
-     color: #000026;
+     color: #00274C;
      font-size: 18px;
      line-height: 24px;
      text-align: center;
