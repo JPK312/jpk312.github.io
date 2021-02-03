@@ -95,6 +95,7 @@
    img {
      display: inline-block;
      max-width: 100%;
+     width: 100%;
    }
 
    blockquote {
@@ -1310,7 +1311,7 @@
    }
 
    .company-logo {
-     max-height: 80px;
+     max-height: 150px;
      padding: 16px;
      opacity: 0.5;
      -webkit-transition: opacity 300ms ease;
