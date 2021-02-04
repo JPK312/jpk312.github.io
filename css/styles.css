@@ -1299,8 +1299,8 @@
      z-index: 1;
      display: -ms-grid;
      display: grid;
-     padding-top: 56px;
-     padding-bottom: 56px;
+     padding-top: 6px;
+     padding-bottom: 6px;
      grid-auto-columns: 1fr;
      grid-column-gap: 16px;
      grid-row-gap: 16px;
