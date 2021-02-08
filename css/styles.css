@@ -94,7 +94,7 @@
 
    img {
      display: inline-block;
-     max-width: 100%;
+     max-width: fit-content;
    }
 
    blockquote {
