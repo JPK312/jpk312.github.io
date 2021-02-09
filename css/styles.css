@@ -98,6 +98,11 @@
      width: 100%;
    }
 
+   .logo {
+    display: inline-block;
+    max-width: 97px;
+    width: 100%;
+  }
    blockquote {
      margin-bottom: 10px;
      padding: 10px 20px;
