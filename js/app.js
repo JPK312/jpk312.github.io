@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 !(function (t) {
-=======
- !(function (t) {
->>>>>>> 094d8a8765a7f1b94f8bb619b5dae067ca8285ed
   var e = {};
   function n(r) {
       if (e[r]) return e[r].exports;
